@@ -1,0 +1,42 @@
+[
+    {
+        "question": "1Q. Which city longest flyover of is located ?",
+        "options": [
+            "[A] Mumbai",
+            "[B] Pune",
+            "[C] Chennai",
+            "[D] Hyderabad"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "2Q. Which one in the least populated state of India ?",
+        "options": [
+            "[A] Arunachal Predesh",
+            "[B] Nagaland",
+            "[C] Sikkim",
+            "[D] Goa"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "3Q. Which one in the most populated state of India ?",
+        "options": [
+            "[A] Bihar",
+            "[B] Maharashtra",
+            "[C] Utter Pradesh",
+            "[D] Madhya Pradesh"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "4Q. Pin code system in India was instroduced in the year ?",
+        "options": [
+            "[A] 1976",
+            "[B] 1972",
+            "[C] 1982",
+            "[D] 1975"
+        ],
+        "correctAnswer": 1
+    }
+]

@@ -36,7 +36,7 @@ function App() {
           correctAnswer={corrrectAnswer} />)
       })
       }
-      <button onClick={handleButtonClick}>Next</button>
+      <button className='button' onClick={handleButtonClick}>Next</button>
     </div>
 
   )

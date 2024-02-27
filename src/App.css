@@ -1,11 +1,33 @@
+body{
+  text-align: center;
+}
+.optionDiv{
+  border-radius: 20px;
+  height: 100px;
+  width: 200px;
+  border: 2px solid black;
+  margin: 50px;
+  display: inline-block;
+}
+.question{
+  padding: 10px;
+  font-size: 2em;
+  background-color: blue;
+}
 .green {
+  border-radius: 20px;
+  height: 100%;
   background-color: green;
 }
 
 .red {
+  border-radius: 20px;
+  height: 100%;
   background-color: red;
 }
 
 .white {
+  border-radius: 20px;
+  height: 100%;
   background-color: #ffffff;
 }
